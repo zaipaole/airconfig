@@ -8,7 +8,7 @@ license: ""
 # 必填
 # app与v2b面板的通信地址，一般是面板前端域名
 # 月付版注意：这里的域名一定要和授权域名一致，若更换域名请联系开发者重新获取授权密钥
-apiUrl: "https://qt.paocloud.top"
+apiUrl: "https://run.paocloud.top"
 
 # Crisp在线客服，不填写则入口隐藏
 crispId: ""
@@ -79,7 +79,7 @@ homeNav:
   list: #以下列表数量不限可以无限添加，但请注意格式
     - text: "Running官网"
       icon: "https://s2.loli.net/2024/03/08/4HqlW2wDp8PkZ3L.png"
-      link: "https://q1t.paocloud.top"
+      link: "https://run.paocloud.top"
     - text: "Google"
       icon: "https://i3.mjj.rip/2023/07/10/46daf515c691dffc8be5389efa01b215.webp"
       link: "https://www.google.com"
