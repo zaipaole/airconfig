@@ -11,10 +11,10 @@ license: ""
 apiUrl: "https://to.paorun.us.kg"
 
 # Crisp在线客服，不填写则入口隐藏
-crispId: ""
+crispId: "763ff299-b454-4954-b849-08d257dd16f4"
 
 # 邀请链接，APP里点复制链接，邀请码会拼接在最后
-inviteUrl: ""
+inviteUrl: "https://1.paocloud.top/#/register?code="
 
 # 节点延迟的展示相关
 nodeDelayShow:
@@ -77,9 +77,9 @@ homeNav:
   show: true  # 是否显示
   title: "网站推荐"  # 标题
   list: #以下列表数量不限可以无限添加，但请注意格式
-    - text: "Running官网"
-      icon: "https://s2.loli.net/2024/03/08/4HqlW2wDp8PkZ3L.png"
-      link: "https://run.paocloud.top"
+    - text: "Bing官网"
+      icon: "https://i3.mjj.rip/2023/07/10/46daf515c691dffc8be5389efa01b215.webp"
+      link: "https://bing.com/"
     - text: "Google"
       icon: "https://i3.mjj.rip/2023/07/10/46daf515c691dffc8be5389efa01b215.webp"
       link: "https://www.google.com"
