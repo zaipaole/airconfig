@@ -8,7 +8,7 @@ license: ""
 # 必填
 # app与v2b面板的通信地址，一般是面板前端域名
 # 月付版注意：这里的域名一定要和授权域名一致，若更换域名请联系开发者重新获取授权密钥
-apiUrl: "https://to.paorun.us.kg"
+apiUrl: "https://paocloud.top"
 
 # Crisp在线客服，不填写则入口隐藏
 crispId: "763ff299-b454-4954-b849-08d257dd16f4"
